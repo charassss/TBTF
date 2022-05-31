@@ -1,0 +1,11 @@
+chapter.first.name=第一章
+#第一个任务
+task.chapter.first.claimtree.name=领取树苗
+task.chapter.first.claimtree.click.name=点我来领树苗
+task.chapter.first.claimtree.description.line.one=如果你非酋到一个树苗都没掉
+task.chapter.first.claimtree.description.line.two=就通过这个任务来领取你的树苗吧= =
+#第二个任务
+task.chapter.second.log.name=初来乍到,先种树苗
+#第三个任务
+task.chapter.third.woodcrook.name=做木钩子
+task.chapter.third.woodcrook.description.line.one=用木钩子破坏树叶有更大的概率掉落树苗,并会掉落丝
