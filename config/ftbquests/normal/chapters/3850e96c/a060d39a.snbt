@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: 3.5d,
+	dependencies: [
+		"4bcfd364"
+	],
+	tasks: [{
+		uid: "4ec592dd",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:handheld_table"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1eec84a0",
+		type: "loot",
+		table: 0
+	},
+	{
+		uid: "a89c7ed9",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

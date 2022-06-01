@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	dependencies: [
+		"f4fabed0"
+	],
+	tasks: [{
+		uid: "ebc1c252",
+		type: "item",
+		items: [{
+			item: "tbtmats:compressed_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "9f7f689e",
+		type: "loot",
+		table: 0
+	}]
+}

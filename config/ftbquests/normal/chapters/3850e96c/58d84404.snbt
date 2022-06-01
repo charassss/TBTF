@@ -1,0 +1,39 @@
+{
+	x: 10.0d,
+	y: 0.5d,
+	text: [
+		"{task.chapter.third.woodcrook.description.line.one}"
+	],
+	dependencies: [
+		"e2011e6e"
+	],
+	tasks: [{
+		uid: "08366fa4",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:crook_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "dd04762f",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "2a65a56f",
+		type: "item",
+		item: {
+			id: "exnihilocreatio:crook_bone",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 34s
+				}],
+				RepairCost: 1
+			}
+		}
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{task.chapter.first.claimtree.name}",
+	x: 0.5d,
+	y: 0.5d,
+	shape: "heart",
+	text: [
+		"{task.chapter.first.claimtree.description.line.one}",
+		"{task.chapter.first.claimtree.description.line.two}"
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "8077b139",
+		type: "checkmark",
+		title: "{task.chapter.first.claimtree.click.name}",
+		icon: "minecraft:sapling"
+	}],
+	rewards: [{
+		uid: "3c7319cc",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 4
+	}]
+}

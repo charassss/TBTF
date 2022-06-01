@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "9d5d0138",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}],
+	rewards: [{
+		uid: "e6b7fe31",
+		type: "item",
+		item: "minecraft:log",
+		count: 32
+	},
+	{
+		uid: "7a0063ac",
+		type: "loot",
+		table: 0
+	}]
+}
