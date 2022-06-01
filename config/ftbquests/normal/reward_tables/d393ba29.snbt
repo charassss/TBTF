@@ -1,0 +1,141 @@
+{
+	title: "食物",
+	loot_size: 1,
+	hide_tooltip: true,
+	rewards: [{
+		item: "xlfoodmod:taco",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:super_energy_drink"
+	},
+	{
+		item: "xlfoodmod:tortilla",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:vanilla_cupcake",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:vegetable_soup",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:caramel_apple",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:cheesy_bread",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:chocolate_icecream_ball",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:vanilla_donut",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:baguette",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:crescent_roll",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:donut",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:bourbon_biscuit",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:chocolate_cupcake",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:corn",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:onion",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:sugar_donut",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:waffle",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:cucumber",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:salty_chips",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:salty_chips",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:paper_cup",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:top_bun",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:pumpkin_cake"
+	},
+	{
+		item: "xlfoodmod:enchilada",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:enchilada",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:sausage",
+		count: 8
+	},
+	{
+		item: "xlfoodmod:chocolate_syrup",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:cheese_puff",
+		count: 16
+	},
+	{
+		item: "xlfoodmod:pizza"
+	},
+	{
+		item: "xlfoodmod:vanilla_icecream"
+	},
+	{
+		item: "xlfoodmod:vanilla_flower"
+	},
+	{
+		item: "xlfoodmod:vanilla_cupcake"
+	},
+	{
+		item: "xlfoodmod:chocolate_donut"
+	},
+	{
+		item: "xlfoodmod:chocolate_pie"
+	},
+	{
+		item: "xlfoodmod:chocolate",
+		count: 32
+	}]
+}
