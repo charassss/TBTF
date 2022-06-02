@@ -4,6 +4,7 @@
 	dependencies: [
 		"f4fabed0"
 	],
+	hide: true,
 	tasks: [{
 		uid: "6093a0bd",
 		type: "item",

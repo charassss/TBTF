@@ -1,5 +1,10 @@
 chapter.first.name=Chapter 1
+hint.chapter.first.veinminer.name=Hint: Mine
+hint.chapter.first.veinminer.click.name=You can use the key ~ to mine veins
 task.chapter.first.claimtree.name=Claim your tree
 task.chapter.first.claimtree.click.name=Click me to claim your tree
 task.chapter.first.claimtree.description.line.one=If you lost all of your tree,
 task.chapter.first.claimtree.description.line.two=you can claim it through this task.
+task.chapter.second.log.name=as soon as you come, you plant trees
+task.chapter.third.woodcrook.name=craft a woodcrook
+task.chapter.third.woodcrook.description.line.one=use the woodcrook to mine the leaves, and it usually drop more saplings and it sometimes drops silkworms.

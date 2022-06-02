@@ -1,4 +1,8 @@
+#第一章
 chapter.first.name=第一章
+#提示一
+hint.chapter.first.veinminer.name=提示:挖掘
+hint.chapter.first.veinminer.click.name=可以通过按住~的方式来连锁挖掘
 #第一个任务
 task.chapter.first.claimtree.name=领取树苗
 task.chapter.first.claimtree.click.name=点我来领树苗
@@ -8,4 +12,4 @@ task.chapter.first.claimtree.description.line.two=就通过这个任务来领取
 task.chapter.second.log.name=初来乍到,先种树苗
 #第三个任务
 task.chapter.third.woodcrook.name=做木钩子
-task.chapter.third.woodcrook.description.line.one=用木钩子破坏树叶有更大的概率掉落树苗,并会掉落丝
+task.chapter.third.woodcrook.description.line.one=用木钩子破坏树叶有更大的概率掉落树苗,并会掉落蚕

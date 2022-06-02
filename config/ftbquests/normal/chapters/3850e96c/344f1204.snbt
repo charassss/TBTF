@@ -1,0 +1,16 @@
+{
+	title: "{hint.chapter.first.veinminer.name}",
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "95f67089",
+		type: "checkmark",
+		title: "{hint.chapter.first.veinminer.click.name}",
+		icon: "minecraft:diamond_pickaxe"
+	}],
+	rewards: [{
+		uid: "55598098",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}
