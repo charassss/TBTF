@@ -40,6 +40,6 @@ recipes.addShaped(handheld_table,[
 #string + small_thread -> normal_mesh
 recipes.addShaped(normal_mesh, [
     [small_thread, mcstring, small_thread],
-    [mcstirng, small_thread, mcstirng],
+    [mcstring, small_thread, mcstring],
     [small_thread, mcstring, small_thread]
 ]);
