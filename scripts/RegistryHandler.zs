@@ -17,7 +17,7 @@ val normal_mesh = <exnihilocreatio:item_mesh:1>;
 
 #my mod items
 val compressed_workbench = <tbtmats:compressed_workbench>;
-val small_thread = <tbtmats:small_thread?>;
+val small_thread = <tbtmats:small_thread>;
 
 #remove recipes
 
