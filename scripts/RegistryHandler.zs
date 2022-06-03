@@ -10,22 +10,26 @@ import crafttweaker.data.IData;
 #vanilla items
 val stick = <minecraft:stick>;
 val mcstring = <minecraft:string>;
+val log = <ore:logWood>;
+val plank = <ore:plankWood>;
+val slab = <ore:slabWood>;
 
-#other mod items
+#extended crafting
 val handheld_table = <extendedcrafting:handheld_table>;
+
+#exnihilo creatio
 val normal_mesh = <exnihilocreatio:item_mesh:1>;
+val sieve = <exnihilocreatio:block_sieve>;
 
 #my mod items
 val compressed_workbench = <tbtmats:compressed_workbench>;
 val small_thread = <tbtmats:small_thread>;
+val double_stick = <tbtmats:double_stick>;
 
 #remove recipes
-
-#handheld table
 recipes.remove(handheld_table);
-
-#mesh
 recipes.remove(normal_mesh);
+recipes.remove(sieve);
 
 
 
@@ -42,4 +46,11 @@ recipes.addShaped(normal_mesh, [
     [small_thread, mcstring, small_thread],
     [mcstring, small_thread, mcstring],
     [small_thread, mcstring, small_thread]
+]);
+
+#
+recipes.addShaped(sieve, [
+    [log, null, log],
+    [plank, slab, plank],
+    [double_stick, null, double_stick]
 ]);
