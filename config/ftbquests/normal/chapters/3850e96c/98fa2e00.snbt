@@ -1,0 +1,27 @@
+{
+	x: 16.0d,
+	y: -1.0d,
+	dependencies: [
+		"9a415c56"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b5a59c17",
+		type: "item",
+		items: [{
+			item: "tbtmats:double_stick"
+		}]
+	},
+	{
+		uid: "1ef3cf4e",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "afaf5926",
+		type: "loot",
+		table: 0
+	}]
+}
