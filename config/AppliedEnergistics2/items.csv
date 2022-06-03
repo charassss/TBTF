@@ -1587,34 +1587,34 @@ tconstruct:slime_vine_purple_end:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple_mid:0, 紫色史莱姆藤蔓
 tconstruct:slime_vine_purple:0, 紫色史莱姆藤蔓
 tconstruct:pattern:0, 空白模具
-tconstruct:pattern:0, 开掘铲头模具
-tconstruct:pattern:0, 大板模具
-tconstruct:pattern:0, 绑定结模具
-tconstruct:pattern:0, 宽护手模具
-tconstruct:pattern:0, 弓弦模具
-tconstruct:pattern:0, 箭羽模具
-tconstruct:pattern:0, 碎片模具
-tconstruct:pattern:0, 牌板模具
-tconstruct:pattern:0, 护手模具
-tconstruct:pattern:0, 十字柄模具
 tconstruct:pattern:0, 磨制工具模具
-tconstruct:pattern:0, 坚韧手柄模具
-tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 十字柄模具
+tconstruct:pattern:0, 弓弦模具
 tconstruct:pattern:0, 镐头模具
 tconstruct:pattern:0, 镰刀头模具
-tconstruct:pattern:0, 箭杆模具
-tconstruct:pattern:0, 手柄模具
-tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, 绑定结模具
 tconstruct:pattern:0, 锤头模具
-tconstruct:pattern:0, 刀刃模具
 tconstruct:pattern:0, 盘模具
-tconstruct:pattern:0, 锹头模具
-tconstruct:pattern:0, 宽斧刃模具
-tconstruct:pattern:0, 宽剑刃模具
-tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 护手模具
+tconstruct:pattern:0, 箭杆模具
 tconstruct:pattern:0, 剑刃模具
-tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 宽剑刃模具
+tconstruct:pattern:0, 碎片模具
+tconstruct:pattern:0, 坚韧手柄模具
+tconstruct:pattern:0, 宽斧刃模具
+tconstruct:pattern:0, 宽护手模具
 tconstruct:pattern:0, 园艺镰头模具
+tconstruct:pattern:0, 开掘铲头模具
+tconstruct:pattern:0, 刀刃模具
+tconstruct:pattern:0, 锹头模具
+tconstruct:pattern:0, 弓臂模具
+tconstruct:pattern:0, 箭羽模具
+tconstruct:pattern:0, 大板模具
+tconstruct:pattern:0, 牌板模具
+tconstruct:pattern:0, 坚韧绑定结模具
+tconstruct:pattern:0, 箭头模具
+tconstruct:pattern:0, 斧刃模具
+tconstruct:pattern:0, 手柄模具
 tconstruct:shard:0, 木 碎片
 tconstruct:shard:0, 圆石 碎片
 tconstruct:shard:0, 燧石 碎片
@@ -2421,62 +2421,62 @@ tconstruct:seared_stairs_road:0, 焦黑铺路石楼梯
 tconstruct:seared_stairs_tile:0, 焦黑瓷砖楼梯
 tconstruct:seared_stairs_creeper:0, 焦黑雕琢楼梯
 tconstruct:cast:0, 空白铸模
-tconstruct:cast:0, 开掘铲头铸模
-tconstruct:cast:0, 大板铸模
-tconstruct:cast:0, 绑定结铸模
-tconstruct:cast:0, 宽护手铸模
-tconstruct:cast:0, 碎片铸模
-tconstruct:cast:0, 牌板铸模
-tconstruct:cast:0, 护手铸模
-tconstruct:cast:0, 十字柄铸模
 tconstruct:cast:0, 磨制工具铸模
-tconstruct:cast:0, 坚韧手柄铸模
-tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 十字柄铸模
 tconstruct:cast:0, 镐头铸模
 tconstruct:cast:0, 镰刀头铸模
-tconstruct:cast:0, 手柄铸模
-tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, 绑定结铸模
 tconstruct:cast:0, 锤头铸模
-tconstruct:cast:0, 刀刃铸模
 tconstruct:cast:0, 盘铸模
-tconstruct:cast:0, 锹头铸模
-tconstruct:cast:0, 宽斧刃铸模
-tconstruct:cast:0, 宽剑刃铸模
-tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 护手铸模
 tconstruct:cast:0, 剑刃铸模
-tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 宽剑刃铸模
+tconstruct:cast:0, 碎片铸模
+tconstruct:cast:0, 坚韧手柄铸模
+tconstruct:cast:0, 宽斧刃铸模
+tconstruct:cast:0, 宽护手铸模
 tconstruct:cast:0, 园艺镰头铸模
+tconstruct:cast:0, 开掘铲头铸模
+tconstruct:cast:0, 刀刃铸模
+tconstruct:cast:0, 锹头铸模
+tconstruct:cast:0, 弓臂铸模
+tconstruct:cast:0, 大板铸模
+tconstruct:cast:0, 牌板铸模
+tconstruct:cast:0, 坚韧绑定结铸模
+tconstruct:cast:0, 箭头铸模
+tconstruct:cast:0, 斧刃铸模
+tconstruct:cast:0, 手柄铸模
 tconstruct:cast_custom:0, 锭铸模
 tconstruct:cast_custom:1, 粒铸模
 tconstruct:cast_custom:2, 宝石铸模
 tconstruct:cast_custom:3, 板铸模
 tconstruct:cast_custom:4, 齿轮铸模
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, 开掘铲头粘土铸模
-tconstruct:clay_cast:0, 大板粘土铸模
-tconstruct:clay_cast:0, 绑定结粘土铸模
-tconstruct:clay_cast:0, 宽护手粘土铸模
-tconstruct:clay_cast:0, 碎片粘土铸模
-tconstruct:clay_cast:0, 牌板粘土铸模
-tconstruct:clay_cast:0, 护手粘土铸模
-tconstruct:clay_cast:0, 十字柄粘土铸模
 tconstruct:clay_cast:0, 磨制工具粘土铸模
-tconstruct:clay_cast:0, 坚韧手柄粘土铸模
-tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 十字柄粘土铸模
 tconstruct:clay_cast:0, 镐头粘土铸模
 tconstruct:clay_cast:0, 镰刀头粘土铸模
-tconstruct:clay_cast:0, 手柄粘土铸模
-tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, 绑定结粘土铸模
 tconstruct:clay_cast:0, 锤头粘土铸模
-tconstruct:clay_cast:0, 刀刃粘土铸模
 tconstruct:clay_cast:0, 盘粘土铸模
-tconstruct:clay_cast:0, 锹头粘土铸模
-tconstruct:clay_cast:0, 宽斧刃粘土铸模
-tconstruct:clay_cast:0, 宽剑刃粘土铸模
-tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 护手粘土铸模
 tconstruct:clay_cast:0, 剑刃粘土铸模
-tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 宽剑刃粘土铸模
+tconstruct:clay_cast:0, 碎片粘土铸模
+tconstruct:clay_cast:0, 坚韧手柄粘土铸模
+tconstruct:clay_cast:0, 宽斧刃粘土铸模
+tconstruct:clay_cast:0, 宽护手粘土铸模
 tconstruct:clay_cast:0, 园艺镰头粘土铸模
+tconstruct:clay_cast:0, 开掘铲头粘土铸模
+tconstruct:clay_cast:0, 刀刃粘土铸模
+tconstruct:clay_cast:0, 锹头粘土铸模
+tconstruct:clay_cast:0, 弓臂粘土铸模
+tconstruct:clay_cast:0, 大板粘土铸模
+tconstruct:clay_cast:0, 牌板粘土铸模
+tconstruct:clay_cast:0, 坚韧绑定结粘土铸模
+tconstruct:clay_cast:0, 箭头粘土铸模
+tconstruct:clay_cast:0, 斧刃粘土铸模
+tconstruct:clay_cast:0, 手柄粘土铸模
 tconstruct:stone_torch:0, 石柄火把
 tconstruct:stone_ladder:0, 石梯
 tconstruct:punji:0, 尖竹钉
@@ -3801,6 +3801,17 @@ appliedenergistics2:facade:0, 线缆伪装板 - 蓝色葡萄牙路面
 appliedenergistics2:facade:0, 线缆伪装板 - 红色葡萄牙路面
 appliedenergistics2:facade:0, 线缆伪装板 - 黄色葡萄牙路面
 appliedenergistics2:facade:0, 线缆伪装板 - 绿色葡萄牙路面
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩尘土
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩圆石
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩沙砾
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩沙子
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩泥土
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩燧石
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩地狱岩沙砾
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩末地石沙砾
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩灵魂沙
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩地狱岩
+appliedenergistics2:facade:0, 线缆伪装板 - 压缩末地石
 appliedenergistics2:facade:0, 线缆伪装板 - A.G.C 块
 appliedenergistics2:facade:0, 线缆伪装板 - A.G.C 矿
 appliedenergistics2:facade:0, 线缆伪装板 - 大轩 块
@@ -5114,6 +5125,64 @@ botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
 botania:managlasspane, tile.manaGlassPane.name
 botania:elfglasspane, tile.elfGlassPane.name
 botania:bifrostpermpane, tile.bifrostPermPane.name
+excompressum:compressed_block:0, 压缩尘土
+excompressum:compressed_block:1, 压缩圆石
+excompressum:compressed_block:2, 压缩沙砾
+excompressum:compressed_block:3, 压缩沙子
+excompressum:compressed_block:4, 压缩泥土
+excompressum:compressed_block:5, 压缩燧石
+excompressum:compressed_block:6, 压缩地狱岩沙砾
+excompressum:compressed_block:7, 压缩末地石沙砾
+excompressum:compressed_block:8, 压缩灵魂沙
+excompressum:compressed_block:9, 压缩地狱岩
+excompressum:compressed_block:10, 压缩末地石
+excompressum:heavy_sieve:0, 重型橡木筛子
+excompressum:heavy_sieve:1, 重型云杉木筛子
+excompressum:heavy_sieve:2, 重型白桦木筛子
+excompressum:heavy_sieve:3, 重型丛林木筛子
+excompressum:heavy_sieve:4, 重型金合欢木筛子
+excompressum:heavy_sieve:5, 重型深色橡木筛子
+excompressum:wooden_crucible:0, 橡木坩埚
+excompressum:wooden_crucible:1, 云杉木坩埚
+excompressum:wooden_crucible:2, 白桦木坩埚
+excompressum:wooden_crucible:3, 丛林木坩埚
+excompressum:wooden_crucible:4, 金合欢木坩埚
+excompressum:wooden_crucible:5, 深色橡木坩埚
+excompressum:bait:0, 狼诱饵
+excompressum:bait:1, 豹猫诱饵
+excompressum:bait:2, 牛诱饵
+excompressum:bait:3, 猪诱饵
+excompressum:bait:4, 鸡诱饵
+excompressum:bait:5, 羊诱饵
+excompressum:bait:6, 鱿鱼诱饵
+excompressum:bait:7, 兔子诱饵
+excompressum:bait:8, 马诱饵
+excompressum:bait:9, 驴诱饵
+excompressum:bait:10, 北极熊诱饵
+excompressum:bait:11, 羊驼诱饵
+excompressum:bait:12, 鹦鹉诱饵
+excompressum:auto_hammer, 自动锤
+excompressum:auto_compressed_hammer, 自动压缩锤
+excompressum:auto_sieve, 自动筛子
+excompressum:auto_heavy_sieve, 自动重型筛子
+excompressum:auto_compressor, 自动压缩机
+excompressum:auto_compressor_rationing, 自动压缩机（供应模式）
+excompressum:chicken_stick, 小鸡锤
+excompressum:compressed_hammer_wood, 压缩木锤
+excompressum:compressed_hammer_stone, 压缩石锤
+excompressum:compressed_hammer_iron, 压缩铁锤
+excompressum:compressed_hammer_gold, 压缩金锤
+excompressum:compressed_hammer_diamond, 压缩钻石锤
+excompressum:double_compressed_diamond_hammer, 双重压缩钻石锤
+excompressum:compressed_crook, 压缩钩子
+excompressum:iron_mesh, 铁筛网
+excompressum:wood_chippings, 木屑
+excompressum:uncompressed_coal, 碎煤
+excompressum:bat_zapper, 蝙蝠杀手
+excompressum:ore_smasher, 矿物粉碎机
+excompressum:ugly_steel_plating, 丑陋的钢电镀板
+excompressum:mana_sieve, 魔钢筛子
+excompressum:hammer_mana, 魔钢锤
 itemfilters:filter, 物品过滤器
 itemfilters:missing, 缺少物品
 ftbquests:screen, 任务显示器
@@ -5129,24 +5198,6 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, 任务书
 ftbquests:lootcrate, 奖励箱
 ftbquests:custom_icon, 自定义图标
-ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
-ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
-ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
-ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
-ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
-ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
-ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
-ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
-ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
-ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
-ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
-ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
-ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
-ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
-ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
-ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
-ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
-ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 ironchest:iron_chest:0, 铁箱子
 ironchest:iron_chest:1, 金箱子
 ironchest:iron_chest:2, 钻石箱子
@@ -5267,6 +5318,24 @@ ironchest:iron_shulker_box_black:3, 黑色铜质潜影盒
 ironchest:iron_shulker_box_black:4, 黑色银质潜影盒
 ironchest:iron_shulker_box_black:5, 黑色水晶潜影盒
 ironchest:iron_shulker_box_black:6, 黑色黑曜石潜影盒
+ironchest:iron_gold_chest_upgrade, 箱子升级：铁>金
+ironchest:gold_diamond_chest_upgrade, 箱子升级：金>钻石
+ironchest:copper_silver_chest_upgrade, 箱子升级：铜>银
+ironchest:silver_gold_chest_upgrade, 箱子升级：银>金
+ironchest:copper_iron_chest_upgrade, 箱子升级：铜>铁
+ironchest:diamond_crystal_chest_upgrade, 箱子升级：钻石>水晶
+ironchest:wood_iron_chest_upgrade, 箱子升级：木>铁
+ironchest:wood_copper_chest_upgrade, 箱子升级：木>铜
+ironchest:diamond_obsidian_chest_upgrade, 箱子升级：钻石>黑曜石
+ironchest:iron_gold_shulker_upgrade, 潜影盒升级：铁>金
+ironchest:gold_diamond_shulker_upgrade, 潜影盒升级：金>钻石
+ironchest:copper_silver_shulker_upgrade, 潜影盒升级：铜>银
+ironchest:silver_gold_shulker_upgrade, 潜影盒升级：银>金
+ironchest:copper_iron_shulker_upgrade, 潜影盒升级：铜>铁
+ironchest:diamond_crystal_shulker_upgrade, 潜影盒升级：钻石>水晶
+ironchest:vanilla_iron_shulker_upgrade, 潜影盒升级：原版>铁
+ironchest:vanilla_copper_shulker_upgrade, 潜影盒升级：原版>铜
+ironchest:diamond_obsidian_shulker_upgrade, 潜影盒升级：钻石>黑曜石
 tbtmats:agc_ingot, A.G.C 锭
 tbtmats:agc_stick, A.G.C 棍
 tbtmats:compressed_workbench, 压缩工作台
