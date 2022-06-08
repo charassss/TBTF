@@ -7,7 +7,6 @@
 		"{task.chapter.first.claimtree.description.line.one}",
 		"{task.chapter.first.claimtree.description.line.two}"
 	],
-	can_repeat: true,
 	tasks: [{
 		uid: "8077b139",
 		type: "checkmark",

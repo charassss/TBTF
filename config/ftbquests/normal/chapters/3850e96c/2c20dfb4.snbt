@@ -1,0 +1,44 @@
+{
+	x: 8.5d,
+	y: -1.0d,
+	dependencies: [
+		"e2011e6e"
+	],
+	tasks: [{
+		uid: "f4bd7c76",
+		type: "item",
+		items: [{
+			item: "excompressum:wooden_crucible"
+		}]
+	},
+	{
+		uid: "ff7577cb",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_barrel0"
+		}]
+	}],
+	rewards: [{
+		uid: "7d9db27d",
+		type: "item",
+		item: {
+			id: "thermalfoundation:tool.shears_diamond",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 34s
+				},
+				{
+					lvl: 5s,
+					id: 32s
+				}],
+				RepairCost: 3
+			}
+		}
+	},
+	{
+		uid: "edf62fd3",
+		type: "loot",
+		table: 0
+	}]
+}

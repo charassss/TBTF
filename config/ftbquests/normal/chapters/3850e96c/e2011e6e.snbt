@@ -11,5 +11,10 @@
 		items: [{
 			item: "minecraft:crafting_table"
 		}]
+	}],
+	rewards: [{
+		uid: "f3968f79",
+		type: "loot",
+		table: 0
 	}]
 }

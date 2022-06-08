@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: -1.0d,
+	dependencies: [
+		"52917464",
+		"98fa2e00"
+	],
+	tasks: [{
+		uid: "4f100820",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:item_pebble"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6bf407c2",
+		type: "loot",
+		table: 0
+	}]
+}
